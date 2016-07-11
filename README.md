@@ -32,7 +32,8 @@ The following **additional** features are implemented:
     + Hiding tab bar in detailView
     + Make view to be gradient black color
     * Improve project: 
-       - I use main.storyboard to int tab bar, so i have to create two controllers (it is not good, becasue they are them same content). I think I should init tab bar in AppDelegate, because i can reuse one controller (I did have enough time to do it). 
+       - I use main.storyboard to int tab bar, so i have to create two controllers (it is not good, becasue they are the same content). I think I should init tab bar in AppDelegate, because i can reuse one controller (I did have enough time to do it). 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
